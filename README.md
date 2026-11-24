@@ -1,10 +1,10 @@
 # 🚀 XENTEC | Experiencia web dinámica
 
-\<p align="center">   \*\*Diseño web · Desarrollo · Tecnología\*\* \</p>
+<p align="center">   Diseño web · Desarrollo · Tecnología </p>
 
-\<p align="center">   Una propuesta de desarrollo web que combina diseño, programación e interacción para construir una experiencia digital. \</p>
+<p align="center">   Una propuesta de desarrollo web que combina diseño, programación e interacción para construir una experiencia digital. </p>
 
-\<p align="center">   [🌐 VISITAR REPOSITORIO]\([https://github.com/Nitram-2921/XENTEC](https://github.com/Nitram-2921/XENTEC)) \</p>
+<p align="center">   [🌐 VISITAR REPOSITORIO]\([https://github.com/Nitram-2921/XENTEC](https://github.com/Nitram-2921/XENTEC)) </p>
 
 ---
 
