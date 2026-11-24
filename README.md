@@ -44,10 +44,10 @@ Podés explorar el código fuente y seguir el desarrollo del proyecto desde GitH
 
 ---
 
-\<p align="center">
+<p align="center">
 
 **XENTEC**
 
 *Ideas que toman forma a través de la tecnología.*
 
-\</p>
+</p>
